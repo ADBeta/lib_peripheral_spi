@@ -1,4 +1,4 @@
-# lib_peripheral_i2c
+# lib_peripheral_spi
 This library is part of the `lib_peripheral_` series of libraries.  
 It provides a highly simplified API to use basic SPI functionality for any
 device supported in esp-idf.  
